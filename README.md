@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/willey3x37" target="blank"><img src="https://img.shields.io/twitter/follow/willey3x37?logo=twitter&style=for-the-badge" alt="willey3x37" /></a> </p>
 
-- 🔭 I’m currently working on **Localtrack**
+- 🔭 I’m currently working on ** my Portfolio Page**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Elixir and Phoenix**
 
 - 👨‍💻 All of my projects are available at [willey3x37.de](willey3x37.de)
 
